@@ -16,3 +16,5 @@ the list is not in order like I'm struggling a lot, so i dont know what to do fi
 [X] MASTER YOURSELF MASTER THE ENEMY (Java - C - Go) Do something with them dumb.
 
 [X] LEARN LINUX its fun as f, I'm making good progress using it.
+
+i forgot about github during a long time of period
