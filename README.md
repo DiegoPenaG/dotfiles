@@ -9,12 +9,10 @@ GL HF
 the list is not in order like I'm struggling a lot, so i dont know what to do first, and maybe i only complete one of these Idont know lets see how it goes.
 
 
-[ ] Find Job lmao.
+[X] Learn Git.
 
-[ ] Learn Git.
+[X] Learn how the fuck customize nvim - I fucking now but i dont know what do i need FUCK.
 
-[ ] Learn how the fuck customize nvim - I fucking now but i dont know what do i need FUCK.
+[X] MASTER YOURSELF MASTER THE ENEMY (Java - C - Go) Do something with them dumb.
 
-[ ] MASTER YOURSELF MASTER THE ENEMY (Java - C - Go) Do something with them dumb.
-
-[ ] LEARN LINUX its fun as f, I'm making good progress using it.
+[X] LEARN LINUX its fun as f, I'm making good progress using it.
