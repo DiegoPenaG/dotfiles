@@ -15,6 +15,10 @@ function M.setup()
 	-- Productivity
 	vim.keymap.set("n", "<leader>w", ":w<CR>", { desc = "[W]rite/Save" })
 	vim.keymap.set("n", "<leader>s", ":source %<CR>", { desc = "[S]ource current file" })
+	
+	-- compiler C
+	vim.keymap.set("n", "<leader>c", ":w<CR>:!gcc -Wall -Wextra % -o %<<CR>", { desc = "[C]ompile C program" })
+	vim.keymap.set("n", "<leader>r", "<cmd>!./%<<CR>", { desc = "[R]un compiled program" })
 end
 
 return M
