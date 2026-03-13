@@ -42,7 +42,7 @@ Config location:
 
 ### Neovim
 
-Configuration for **Neovim** focused on a lightweight development workflow.
+Configuration for **Nvim** 
 
 Possible features:
 
@@ -56,7 +56,7 @@ Config location:
 ```
 ~/.config/nvim/
 ```
-
+check basic keymaps in case something wrong
 ---
 
 ## Installation
@@ -64,7 +64,7 @@ Config location:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dotfiles.git
+git clone https://github.com/penadie/dotfiles.git
 ```
 
 Then create symlinks:
@@ -73,18 +73,6 @@ Then create symlinks:
 ln -s ~/dotfiles/i3 ~/.config/i3
 ln -s ~/dotfiles/nvim ~/.config/nvim
 ```
-
----
-
-## Philosophy
-
-These configurations aim to be:
-
-* **Minimal**
-* **Fast**
-* **Easy to maintain**
-
-No unnecessary complexity, only tools that improve workflow.
 
 ---
 
